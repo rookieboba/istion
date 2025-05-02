@@ -3,6 +3,10 @@
 본 프로젝트는 **AWS EKS 클러스터를 Terraform으로 자동화**하고, `kubectl` CLI를 통해 Kubernetes 자원을 제어할 수 있도록 구성된 실습 환경입니다.
 Update 중
 
+```
+git clone https://github.com/rookieboba/istion.git
+```
+
 ## 📁 프로젝트 구조
 
 ```
